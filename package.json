@@ -1,0 +1,23 @@
+{
+  "name": "timefusion",
+  "version": "1.0.0",
+  "description": "package for the date and time utilities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinnapurkarprasad/time-fusion.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "prasad dinnapurkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dinnapurkarprasad/time-fusion/issues"
+  },
+  "homepage": "https://github.com/Dinnapurkarprasad/time-fusion#readme"
+}
